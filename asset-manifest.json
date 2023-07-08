@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tracktasks/static/css/main.31cd00b7.css",
+    "main.js": "/react-tracktasks/static/js/main.1137ae37.js",
+    "index.html": "/react-tracktasks/index.html",
+    "main.31cd00b7.css.map": "/react-tracktasks/static/css/main.31cd00b7.css.map",
+    "main.1137ae37.js.map": "/react-tracktasks/static/js/main.1137ae37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.1137ae37.js"
+  ]
+}
